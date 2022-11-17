@@ -336,7 +336,7 @@ Gnoll Flesh Gnawer,Medium,Humanoid (Gnoll),CE,14,22,30,12,14,12,8,10,8,DEX,None,
 Gnoll Hunter,Medium,Humanoid (Gnoll),CE,13,22,30,14,14,12,8,12,8,None,"Perception, Stealth",None,Darkvision 60,Gnoll,0.50,Rampage,Volo's Guide to Monsters,,Wizards of the Coast
 Gnoll Pack Lord,Medium,Humanoid,CE,15,49,30,16,14,13,8,11,9,None,None,None,Darkvision 60,Gnoll,2.00,Rampage,Monster Manual,,Wizards of the Coast
 Gnoll Witherling,Medium,Undead,CE,12,11,30,14,8,12,5,5,5,None,None,"Poisonimmu, exhaustionimmu, poisonedimmu",Darkvision 60,Gnoll,0.25,Rampage,Volo's Guide to Monsters,,Wizards of the Coast
-"Gnoll, Flind",Medium,Humanoid (Gnoll),CE,16,127,30,20,10,19,11,13,12,"CON, WIS","Intimation, Perception",None,Darkvision 60,"Gnoll, Abyssal",9.00,Aura of Blood Thirst,Volo's Guide to Monsters,,Wizards of the Coast
+"Gnoll, Flind",Medium,Humanoid (Gnoll),CE,16,127,30,20,10,19,11,13,12,"CON, WIS","Intimidation, Perception",None,Darkvision 60,"Gnoll, Abyssal",9.00,Aura of Blood Thirst,Volo's Guide to Monsters,,Wizards of the Coast
 "Gnome, Deep (Svirfneblin)",Small,Humanoid,NG,15,16,20,15,14,14,12,10,9,None,"Investigation, Perception, Stealth",None,Darkvision 120,"Gnomish, Terran, Undercommon",0.50,"Stone Camouflage, Gnome Cunning, Innate Spellcasting",Monster Manual,,Wizards of the Coast
 Goblin,small,Humanoid,NE,15,7,30,8,14,10,10,8,8,None,Stealth,None,Darkvision 60,"Common, Goblin",0.25,Nimble Escape,Monster Manual,,Wizards of the Coast
 Goblin Boss,small,Humanoid,NE,17,21,30,10,14,10,10,8,10,None,Stealth,None,Darkvision 60,"Common, Goblin",1.00,Nimble Escape,Monster Manual,,Wizards of the Coast
